@@ -29,7 +29,8 @@
         android:textSize="22sp"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/welcome_msg_tv" />
+        app:layout_constraintTop_toBottomOf="@id/welcome_msg_tv"
+        android:textColor="#D500FB"/>
 
 
     <Button
